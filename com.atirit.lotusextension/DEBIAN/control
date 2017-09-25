@@ -1,0 +1,11 @@
+Package: com.atirit.lotusextension
+Name: Lotus Extension
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: More icons for the Lotus theme!
+Homepage: atirit.github.io/repo
+Maintainer: atirit
+Author: atirit
+Section: Themes
+License: Copyright © 2017 Aydin Tiritoglu. All rights reserved.
