@@ -1,1 +1,1 @@
-dpkg-deb -b com.atirit.lotusextension
+dpkg-deb -b -Zlzma com.atirit.lotusextension
