@@ -1,0 +1,17 @@
+Package: com.atirit.lotusextension
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: atirit
+Depends: com.anemonetheming.anemone
+Filename: ./repo/com.atirit.lotusextension.deb
+Size: 236800
+MD5sum: 83d2de1f10ab9be30593fab2017108a0
+SHA1: 4e696c3362cbeeb09c2a7323828062e442c53e0d
+SHA256: dc519cc7fabd0f2f3368147fdfe38b85d650ca355311e53eced1bf374d394279
+Section: Themes
+Homepage: atirit.github.io/repo
+Description: More icons for the Lotus theme!
+Author: atirit
+License: Copyright © 2017 Aydin Tiritoglu. All rights reserved.
+Name: Lotus Extension
+
